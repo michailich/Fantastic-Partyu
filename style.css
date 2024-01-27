@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border-radius: 10px;
+    padding: 10px;
+    border: 5px solid blue;
+}
+header a {
+    background-color: blue;
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+}
+nav {
+    border:5px solid lightskyblue;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+}
+nav a {
+    text-decoration: none;
+    margin: 10px;
+}
+h1 {
+   background-color:rgb(22, 137, 190);
+   color: blue;
+   border-radius: 10px;
+   text-align: center;
+}
+
+header {
+    border-radius: 10px;
+    padding: 10px;
+    border: 5px solid blue;
+}
+header a {
+    background-color: blue;
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+}
+nav {
+    border:5px solid lightskyblue;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+}
+nav a {
+    text-decoration: none;
+    margin: 10px;
+}
+h1 {
+   background-color:rgb(22, 137, 190);
+   color: blue;
+   border-radius: 10px;
+   text-align: center;
+}
+.gg {
+   background-color: brown; 
+   border-radius: 10px;
+   color: white;
+}
+.ggg {
+   background-color: brown; 
+   border-radius: 10px;
+   color: white;
+}
+.gggg {
+   background-color: brown; 
+   border-radius: 10px;
+   color: white;
+}
+.ggggg {
+   background-color: brown; 
+   border-radius: 10px;
+   color: white;
+}
+.hg {
+   background-color: blue; 
+   border: 5px solid blue;
+   color: white;
+}
+
+footer p{
+      background-color: green;
+      border:green;
+}
